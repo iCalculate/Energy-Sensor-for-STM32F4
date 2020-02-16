@@ -1,5 +1,7 @@
 # Energy-Sensor-for-STM32F4
-An energy sensor project on STM32F407, aim to analysis the mains supply state.
+![主控和显示](http://photogz.photo.store.qq.com/psc?/V10NjlLt3vJzWw/jATfUCBWQtBBaj8LJRaWBVAbTLqwEL.RaWOMCLxHG3YN6wecZpiHnGg.VsVf4x4OFZF8L.M*v3lbKrabitCLoA!!/b&ek=1&kp=1&pt=0&bo=fAWwA3wFsAMRADc!&tl=1&tm=1581822000&sce=0-12-12&rf=viewer_311)
+![供电模块](http://a1.qpic.cn/psc?/V10NjlLt3vJzWw/jATfUCBWQtBBaj8LJRaWBT9UEnfJce6qsocDQIMfdJ5ns0bs6btO20Wa1X52lAQbxph1WsJ76lnLKqhN9PVvcg!!/b&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQRADc!&tl=1&vuin=2142004747&tm=1581822000&sce=50-1-1&rf=viewer_311)
+
 针对2018年全国大学生电子设计竞赛设计的交流电探测以及负载分析程序，适用于STM32F407
 
 1. 通过交流互感器采集交流电网电流电压信息并做FFT分析，其中解决了频谱泄露的问题。
